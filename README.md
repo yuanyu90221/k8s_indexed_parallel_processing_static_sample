@@ -1,7 +1,5 @@
 # k8s_indexed_parallel_processing_static_sample
 
-IT 鐵人賽 k8s 入門30天 -- day25 Indexed Job for Parallel Processing with Static Work Assignment
-
 ## 前言
 
 參考文兼 https://kubernetes.io/docs/tasks/job/indexed-parallel-processing-static/
